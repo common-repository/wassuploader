@@ -1,0 +1,13 @@
+/* CSS Document */
+#TB_title {
+   background-color: #222222;
+   height: 27px;
+   }
+   
+#TB_window {
+   min-width: 670px;
+   }
+   
+#TB_iframeContent {
+   min-width: 669px;
+   }
